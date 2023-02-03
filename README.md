@@ -1,7 +1,7 @@
 ### oh yeah
 <p align="center"> 
-  <img alt="Top Langs" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumukawai&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="200px" width="40%" src="https://github-readme-stats.vercel.app/api?username=ayumukawai&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumukawai&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=ayumukawai&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 <p align="center">
   <img alt="trophy" height="150px" width="80%" src="https://github-profile-trophy.vercel.app/?username=ayumukawai&layout=compact&theme=onedark&column=7"/>
