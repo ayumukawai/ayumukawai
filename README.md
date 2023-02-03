@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### oh yeah
+<p align="center"> 
+  <img alt="Top Langs" height="150px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumukawai&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" width="40%" src="https://github-readme-stats.vercel.app/api?username=ayumukawai&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+<p align="center">
+  <img alt="trophy" height="150px" width="80%" src="https://github-profile-trophy.vercel.app/?username=ayumukawai&layout=compact&theme=onedark&column=7"/>
+<p/>
 <!--
 **ayumukawai/ayumukawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
